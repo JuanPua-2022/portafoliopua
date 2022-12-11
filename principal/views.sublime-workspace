@@ -1,0 +1,888 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"mi",
+				"micuadro"
+			],
+			[
+				"micss",
+				"micss.css"
+			],
+			[
+				"vi",
+				"Video3"
+			],
+			[
+				"j",
+				"jquery-1.6.3.min.js"
+			],
+			[
+				"h",
+				"h4"
+			],
+			[
+				"C",
+				"Contacto"
+			],
+			[
+				"f",
+				"filter"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"group_",
+				"group_name"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"pass",
+				"password1"
+			],
+			[
+				"pas",
+				"password2"
+			],
+			[
+				"clea",
+				"clean"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"form",
+				"form_class"
+			],
+			[
+				"pa",
+				"path"
+			],
+			[
+				"reve",
+				"reverse_lazy"
+			],
+			[
+				"last",
+				"last_name"
+			],
+			[
+				"las",
+				"last"
+			],
+			[
+				"wi",
+				"widgets"
+			],
+			[
+				"fir",
+				"first_name"
+			],
+			[
+				"for",
+				"forms"
+			],
+			[
+				"wid",
+				"widget"
+			],
+			[
+				"a",
+				"auth"
+			],
+			[
+				"co",
+				"contrib"
+			],
+			[
+				"cert",
+				"certificados"
+			],
+			[
+				"__",
+				"__str__"
+			],
+			[
+				"media",
+				"MEDIA_ROOT"
+			],
+			[
+				"docume",
+				"document_root"
+			],
+			[
+				"ima",
+				"images/"
+			],
+			[
+				"MEDIA",
+				"MEDIA_URL"
+			],
+			[
+				"mr",
+				"margin"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"mo",
+				"model"
+			],
+			[
+				"min",
+				"MingLengthValidator"
+			],
+			[
+				"VALIDA",
+				"validators"
+			],
+			[
+				"hel",
+				"help_text"
+			],
+			[
+				"tex",
+				"TextField"
+			],
+			[
+				"vr",
+				"verbose_name"
+			],
+			[
+				"po",
+				"portafolio"
+			],
+			[
+				"app",
+				"apps"
+			],
+			[
+				"i",
+				"index"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"request",
+				"requests"
+			],
+			[
+				"v",
+				"views"
+			],
+			[
+				"pat",
+				"path"
+			],
+			[
+				"font-h",
+				"font-weight"
+			],
+			[
+				"blu",
+				"lightblue"
+			],
+			[
+				"cy",
+				"lightcyan"
+			],
+			[
+				"type",
+				"Content-Type"
+			],
+			[
+				"p",
+				"ProyectoAdmin"
+			],
+			[
+				"P",
+				"Proyecto"
+			],
+			[
+				"proy",
+				"proyecto"
+			],
+			[
+				"slu",
+				"slug_text"
+			],
+			[
+				"slug",
+				"slug"
+			],
+			[
+				"JA",
+				"java"
+			],
+			[
+				"se",
+				"sender"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"t",
+				"tec04.png\tw:500 h:300"
+			],
+			[
+				"s",
+				"span\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"bo",
+				"button\tTag"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"stt",
+				"settings"
+			],
+			[
+				"ur",
+				"urls"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"de",
+				"detail_watchlist.html"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"Movies",
+				"Movielist"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"fo",
+				"from"
+			],
+			[
+				"un",
+				"unique"
+			],
+			[
+				"T",
+				"True"
+			],
+			[
+				"rate",
+				"rate_count"
+			],
+			[
+				"F",
+				"ForeingKey"
+			],
+			[
+				"model",
+				"models"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"em",
+				"email_para"
+			],
+			[
+				"emai",
+				"email_desde"
+			],
+			[
+				"def",
+				"def\tFunction"
+			],
+			[
+				"nom",
+				"nombreCompleto"
+			],
+			[
+				"est",
+				"estudiante"
+			],
+			[
+				"max_length",
+				"max_length"
+			],
+			[
+				"mod",
+				"models"
+			],
+			[
+				"M",
+				"Model"
+			],
+			[
+				"n",
+				"null"
+			],
+			[
+				"Fo",
+				"ForeignKey"
+			],
+			[
+				"ch",
+				"CharField"
+			],
+			[
+				"ap",
+				"apellidoMaterno"
+			],
+			[
+				"ape",
+				"apellidoPaterno"
+			],
+			[
+				"m",
+				"max_lenght"
+			],
+			[
+				"tem",
+				"aTemp"
+			],
+			[
+				"Quitr",
+				"Quitar_del_TreeV"
+			],
+			[
+				"boto",
+				"Boton_Quitar_del_TreeV"
+			],
+			[
+				"PRIN",
+				"print"
+			],
+			[
+				"data",
+				"data5"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"el",
+				"el_reporte"
+			],
+			[
+				"com",
+				"compound"
+			],
+			[
+				"img",
+				"imgPDFListo"
+			],
+			[
+				"pdf_",
+				"pdf_02.png\tw:128 h:128"
+			],
+			[
+				"pd",
+				"pdf_listo_48.png\tw:48 h:48"
+			],
+			[
+				"pace",
+				"place"
+			],
+			[
+				"pdf_d",
+				"pdf_download_48.png\tw:48 h:48"
+			],
+			[
+				"pdf_l",
+				"pdf_listo_48.png\tw:48 h:48"
+			],
+			[
+				"pro",
+				"progressbar"
+			],
+			[
+				"im",
+				"imgPDFdown_L"
+			],
+			[
+				"barr",
+				"barraStop"
+			],
+			[
+				"QP",
+				"QPushButton"
+			],
+			[
+				"QO",
+				"QProgressBar"
+			],
+			[
+				"bot",
+				"boton1"
+			],
+			[
+				"bar",
+				"barra"
+			],
+			[
+				"Ap",
+				"aApe"
+			],
+			[
+				"dc",
+				"Dcto_Quita"
+			],
+			[
+				"dct",
+				"Dcto_Datos"
+			],
+			[
+				"item",
+				"item_seleccionado"
+			],
+			[
+				"sele",
+				"selected_item"
+			],
+			[
+				"Dc",
+				"Dcto_Quitar"
+			],
+			[
+				"Q",
+				"Quitar_del_TreeV"
+			],
+			[
+				"Dct",
+				"Dcto_del"
+			],
+			[
+				"imp",
+				"impresora02.png\tw:128 h:128"
+			],
+			[
+				"frame",
+				"frame0"
+			],
+			[
+				"ip",
+				"ipady"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ist",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTAL",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"LIVE",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"istall",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 185.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/JULIO/PROYECTO-PORTAFOLIO",
+		"/C/JULIO/PROYECTO-PORTAFOLIO/myportafolio",
+		"/C/JULIO/PROYECTO-PORTAFOLIO/myportafolio - copia-ingles antes",
+		"/C/JULIO/PROYECTO-PORTAFOLIO/myportafolio - copia-ingles antes/principal"
+	],
+	"file_history":
+	[
+		"/C/JULIO/PROYECTO-PORTAFOLIO/myportafolio/principal/templates/principal/index.html",
+		"/C/WEB-LIYA-V.1.0/home/models.py",
+		"/C/Users/Administrador/Desktop/TUTORIAL JAVASCRIPT/condicional_IF_ELSE_video_12_14.html",
+		"/C/Users/Administrador/Desktop/TUTORIAL JAVASCRIPT/condicional_IF_ELSE_video_11_14.html",
+		"/C/Users/Administrador/Desktop/TUTORIAL JAVASCRIPT/condicional_IF_ELSE.html",
+		"/C/Users/Administrador/Desktop/TUTORIAL JAVASCRIPT/los_array.html",
+		"/C/Users/Administrador/Desktop/TUTORIAL JAVASCRIPT/POO1.html",
+		"/C/Users/Administrador/Desktop/TUTORIAL JAVASCRIPT/primer_codigo.html",
+		"/C/Users/Administrador/Desktop/TUTORIAL JAVASCRIPT/jugando_con_variables.html",
+		"/C/Users/Administrador/Desktop/MATERIALICECSS TUTORIAL/04 botones.html",
+		"/C/Users/Administrador/Desktop/TUTORIAL JAVASCRIPT/Video3/js/primer.js",
+		"/C/JULIO/materialize-v1.0.0/materialize/js/materialize.js",
+		"/C/Users/Administrador/Desktop/PROYECTO PROF JUA DIAZ/tienda/urls.py",
+		"/C/Users/Administrador/Desktop/PROYECTO PROF JUA DIAZ/carro/views.py",
+		"/C/Users/Administrador/Desktop/PROYECTO PROF JUA DIAZ/carro/urls.py",
+		"/C/Users/Administrador/Desktop/PROYECTO PROF JUA DIAZ/carro/models.py",
+		"/C/Users/Administrador/Desktop/PROYECTO PROF JUA DIAZ/carro/context_processor.py",
+		"/C/Users/Administrador/Desktop/PROYECTO PROF JUA DIAZ/carro/carro.py",
+		"/C/Users/Administrador/Desktop/PROYECTO PROF JUA DIAZ/carro/apps.py",
+		"/C/Users/Administrador/Desktop/PROYECTO PROF JUA DIAZ/carro/admin.py",
+		"/C/Users/Administrador/Desktop/PROYECTO PROF JUA DIAZ/carro/__init__.py",
+		"/C/Users/Administrador/Desktop/PROYECTO PROF JUA DIAZ/carro/tests.py",
+		"/C/Users/Administrador/Desktop/MATERIALICECSS TUTORIAL/016 formulariodeconta.html",
+		"/C/WEB-LYRA/lyra/productos/templates/productos/productos.html",
+		"/C/WEB-LIYA-V.1.0/home/static/home/css/lyracssNO_BORRAR.css",
+		"/C/JULIO/proyecto-portafolio-HTML/portafolio.html",
+		"/C/Users/Administrador/Desktop/MATERIALICECSS TUTORIAL/SLIDER HTML MEJORADO 💪 [Alternativa a BOOTSTRAP] con Materialize CSS (Tutorial #9).html",
+		"/C/Users/Administrador/Desktop/MATERIALICECSS TUTORIAL/Carousel o Slider FÁCIL y RÁPIDO #8 Materialize Css [Tutorial Español].html",
+		"/C/WEB-LYRA/lyra/home/templates/home/home.html",
+		"/C/CURSODJANGO/curso_django/portafolio/templates/portafolio/index.html",
+		"/C/CURSODJANGO/curso_django/portafolio/models.py",
+		"/C/CURSODJANGO/curso_django/usuarios/templatetags/usuarios_tags.py",
+		"/C/CURSODJANGO/curso_django/usuarios/urls.py",
+		"/C/CURSODJANGO/curso_django/usuarios/templates/usuarios/registrar_usuarios.html",
+		"/C/CURSODJANGO/curso_django/usuarios/views.py",
+		"/C/WEB-LYRA/lyra/header/base.html",
+		"/C/CURSODJANGO/curso_django/portafolio/templates/portafolio/base.html",
+		"/C/CURSODJANGO/curso_django/usuarios/templatetags/__init__.py",
+		"/C/CURSODJANGO/curso_django/usuarios/forms.py",
+		"/C/CURSODJANGO/curso_django/portafolio/admin.py",
+		"/C/CURSODJANGO/curso_django/usurios/urls.py",
+		"/C/CURSODJANGO/curso_django/curso_django/urls.py",
+		"/C/CURSODJANGO/curso_django/usuarios/templates/usuarios/urls.py",
+		"/C/CURSODJANGO/curso_django/portafolio/views.py",
+		"/C/CURSODJANGO/curso_django/portafolio/urls.py",
+		"/C/CURSODJANGO/curso_django/curso_django/settings.py",
+		"/C/CURSODJANGO/curso_django/usurios/templates/usuarios/registrar_usuarios.html",
+		"/C/CURSODJANGO/curso_django/usurios/forms.py",
+		"/C/CURSODJANGO/curso_django/usurios/views.py",
+		"/C/CURSODJANGO/curso_django/portafolio/static/css/style.css",
+		"/C/CURSODJANGO/curso_django/portafolio/stacti/css/style.css",
+		"/C/Users/Administrador/Desktop/telefonica/Números del 1 al 100.html",
+		"/C/Users/Administrador/Desktop/MATERIALICECSS TUTORIAL/02 la-grid.html",
+		"/C/Users/Administrador/Desktop/MATERIALICECSS TUTORIAL/05 Navbar Materialize (Sidebar vertical) #5 Menú Hamb.html",
+		"/C/Users/Administrador/Desktop/MATERIALICECSS TUTORIAL/05 cards-2.html",
+		"/C/Users/Administrador/Desktop/MATERIALICECSS TUTORIAL/botones.html",
+		"/C/Users/Administrador/Desktop/MATERIALICECSS TUTORIAL/tipograia-sombras-imagenes.html",
+		"/C/Users/Administrador/Desktop/MATERIALICECSS TUTORIAL/plantilla1.html",
+		"/C/Users/Administrador/Desktop/MATERIALICECSS TUTORIAL/la-grid.html",
+		"/C/Users/Administrador/Desktop/MATERIALICECSS TUTORIAL/01 colores.html",
+		"/C/Users/Administrador/Desktop/MATERIALICECSS TUTORIAL/la-grid.hmtl",
+		"/C/Users/Administrador/Desktop/MATERIALICECSS TUTORIAL/01 colores y tipografia.html",
+		"/C/Users/Administrador/Desktop/MATERIALICECSS TUTORIAL/plantilla.html",
+		"/C/JULIO/PROYECTO-PORTAFOLIO/myportafolio/principal/admin.py",
+		"/C/JULIO/PROYECTO-PORTAFOLIO/myportafolio/myportafolio/urls.py",
+		"/C/JULIO/PROYECTO-PORTAFOLIO/myportafolio/principal/templates/principal/detalles.html",
+		"/C/JULIO/PROYECTO-PORTAFOLIO/myportafolio/myportafolio/utils.py",
+		"/C/JULIO/PROYECTO-PORTAFOLIO/myportafolio/principal/models.py",
+		"/C/JULIO/PROYECTO-PORTAFOLIO/myportafolio/myportafolio/settings.py",
+		"/C/JULIO/PROYECTO-PORTAFOLIO/myportafolio/static/js/init.js",
+		"/C/JULIO/PROYECTO-PORTAFOLIO/myportafolio/static/css/style.css",
+		"/C/JULIO/PROYECTO-PORTAFOLIO/myportafolio/principal/templates/principal/trabajos.html",
+		"/C/JULIO/PROYECTO-PORTAFOLIO/myportafolio/principal/views.py",
+		"/C/JULIO/PROYECTO-PORTAFOLIO/myportafolio/principal/urls.py",
+		"/C/JULIO/PROYECTO-PORTAFOLIO/myportafolio/gggggg.sublime-project",
+		"/C/JULIO/proyecto-portafolio/portafolio.html",
+		"/C/Users/Administrador/Desktop/PROYECTOWEB/ProyectoWeb/serviciosApp/templates/servicios/servicios.html",
+		"/C/Users/Administrador/Desktop/PROYECTOWEB/ProyectoWeb/serviciosApp/views.py",
+		"/C/Users/Administrador/Desktop/PROYECTOWEB/ProyectoWeb/ProyectoWeb/settings.py",
+		"/C/BOOTSTRAP/BOOTSTRAP_23_MINIATURAS_THUMBNAILS/BOOTSRAP_23_MINIATURAS_THUMBNAILS.html",
+		"/C/BOOTSTRAP/BOOTSTRAP_34_1_SITIO_WEB_COMPLETO_CON_BOOTSTRA/Blog/css/estilos.css",
+		"/C/BOOTSTRAP/BOOTSTRAP_02_GRID/GRIDCOLUMNAS.html",
+		"/C/BOOTSTRAP/BOOTSTRAP_33_SLIDESHOW/BOOTSTRAP_33_SLIDESHOW.html",
+		"/C/BOOTSTRAP/BOOTSTRAP_34_1_SITIO_WEB_COMPLETO_CON_BOOTSTRA/Blog/index.html",
+		"/C/BOOTSTRAP/BOOTSTRAP_01_USAR/base.html",
+		"/C/BOOTSTRAP/BOOTSTRAP_25_BARRA_PROGRESIVA/BOOTSTRAP_25_BARRA_PROGRESIVA.html",
+		"/C/BOOTSTRAP/BOOTSTRAP_24_MENSAJES_D_ALERTA/BOOTSTRAP_24_MENSAJES_D_ALERTA.html",
+		"/C/BOOTSTRAP/BOOTSTRAP_22_ENCABEZADO_D_PAGINA/BOOTSTRAP_22_ENCABEZADO_D_PAGINA.html",
+		"/C/BOOTSTRAP/BOOTSTRAP_21_JUMBOTROM/BOOTSTRAP_21_JUMBOTROM.html",
+		"/C/BOOTSTRAP/BOOTSTRAP_20_BADGES/BOOTSTRAP_20_BADGES.html",
+		"/C/BOOTSTRAP/BOOTSTRAP_19_LABEL/BOOTSTRAP_19_LABEL.html",
+		"/C/BOOTSTRAP/BOOTSTRAP_18_PAGINACION/BOOTSTRAP_18_PAGINACION.html",
+		"/C/BOOTSTRAP/bootstrap-4.5.2-examples/bootstrap-4.5.2-examples/navbar-fixed/index.html",
+		"/C/BOOTSTRAP/BOOTSTRAP_17_MIGAS_D_PAN/BOOTSTRAP_17_MIGAS_D_PAN.html",
+		"/C/BOOTSTRAP/BOOTSTRAP_16_BARRA_NAVEGACIO/BOOTSTRAP_16_BARRA_NAVEGACIO.html",
+		"/C/BOOTSTRAP/BOOTSTRAP_15_NAVS_NAVEGACIONES/BOOTSTRAP_15_NAVS_NAVEGACIONES.html",
+		"/C/BOOTSTRAP/BOOTSTRAP_14_GRUPO_INPUT/BOOTSTRAP_14_GRUPO_INPUT.html",
+		"/C/BOOTSTRAP/BOOTSTRAP_14_DROPDOWN BUTTON/BOOTSTRAP_14_DROPDOWN BUTTON.html",
+		"/C/BOOTSTRAP/BOOTSTRAP_14_DROPDOWN BUTTON/BOOTSTRAP_12_GRUPO_BOTONES.html",
+		"/C/BOOTSTRAP/BOOTSTRAP_11_ Dropdown/BOOTSTRAP_11_ Dropdown.html",
+		"/C/BOOTSTRAP/BOOTSTRAP_11_ICONOS_FLAG/BOOTSTRAP_11_ICONOS_FLAG.html",
+		"/C/BOOTSTRAP/BOOTSTRAP_10_GRID_OCULTAR/BOOTSTRAP_10_GRID_OCULTAR.html",
+		"/C/BOOTSTRAP/BOOTSTRAP_09_HERRAMIENTAS_RESPONSIVE/BOOTSTRAP_09_HERRAMIENTAS_RESPONSIVE.html",
+		"/C/BOOTSTRAP/BOOTSTRAP_08_IMAGENES/BOOTSTRAP_08_IMAGENES.html",
+		"/C/BOOTSTRAP/BOOTSTRAP_07_BOTONES/BOOSTRAP_07_BOTONES.html",
+		"/C/BOOTSTRAP/BOOTSTRAP_05_FORMULARIOS/BOOTSTRAP_05_FORMULARIO_STANDAR.html",
+		"/C/BOOTSTRAP/BOOTSTRAP_05_FORMULARIOS/BOOTSTRAP_05_FORMULASRIO.html",
+		"/C/BOOTSTRAP/BOOTSTRAP_TIPOGRAFIA/BOOTSTRAP_TIPOGRAFIA.html",
+		"/C/BOOTSTRAP/BOOSTRAP_04_TABLAS/BOOTSTRAP_TABLAS.html",
+		"/C/BOOTSTRAP/BOOTSTRAP EJ 01/index.html",
+		"/C/BOOTSTRAP/BOOTSTRAP EJ 01/js/jquery.js",
+		"/C/BOOTSTRAP/BOOTSTRAP EJ 01/jquery/jquery.js",
+		"/C/BOOTSTRAP/BOOTSTRAP GRID 02/caurusel.html",
+		"/C/CURSOTELMEX/cursotelmex/moviesApp/templates/moviesapp/base.html",
+		"/C/CURSOTELMEX/cursotelmex/moviesApp/templates/moviesapp/index.html",
+		"/C/BOOTSTRAP/BOOTSTRAP GRID 02/index.html",
+		"/C/BOOTSTRAP/bootstrap-4.5.2-examples/bootstrap-4.5.2-examples/carousel/index.html",
+		"/C/CURSOTELMEX/cursotelmex/moviesApp/urls.py",
+		"/C/CURSOTELMEX/cursotelmex/moviesApp/models.py",
+		"/C/CURSOTELMEX/cursotelmex/cursotelmex/settings.py",
+		"/C/CURSOTELMEX/cursotelmex/moviesApp/views.py",
+		"/C/CURSOTELMEX/cursotelmex/moviesApp/templates/moviesapp/list.html",
+		"/C/CURSOTELMEX/cursotelmex/templates/movies/list.html",
+		"/C/BOOTSTRAP/BOOTSTRAP GRID 02/mycss/estilos.css",
+		"/C/CURSOTELMEX/cursotelmex/moviesApp/templates/moviesapp/delete_watchlist.html",
+		"/C/CURSOTELMEX/cursotelmex/moviesApp/templates/moviesapp/detail_watchlist.html",
+		"/C/CURSOTELMEX/cursotelmex/moviesApp/templates/moviesapp/list_watchlists.html",
+		"/C/CURSOTELMEX/cursotelmex/moviesApp/templates/moviesapp/new_watchlist.html"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 114.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"bracket_highlighter.busy": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "views.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

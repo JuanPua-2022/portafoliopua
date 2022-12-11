@@ -1,0 +1,387 @@
+{% load static %}
+{% load i18n %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+	<!-- Compiled and minified CSS --> <!-- MATERIALIZACSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <!-- UTILIZAR LOS ICONOS D MATERIALICECSS -->
+ 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+ 	<style type="text/css">
+ 		.carousel-item {
+ 			width: 300px !important;
+ 		}	
+ 	</style>
+
+
+	<title>Juan Carlos Pua</title>
+	<link rel="icon" href="{% static 'images/logopua.png' %}" type='image/icon type'>
+</head>
+<body>
+<!-- BARRA DE NAVEGACION NAVBAR -->
+<div class="navbar-fixed"> <!-- NAVBAR  FIJO -->
+
+	<nav class="blue darken-4"> <!-- NAVBAR  COLOR FONDO -->
+		<div class="nav-wrapper container">
+	    	<a href="#" class="brand-logo">Menu</a>
+	    	<a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+	    	
+	    	<ul id="nav-mobile" class="right hide-on-med-and-down">
+	        	<li><a href="sass.html">Sass</a></li>
+	        	<li><a href="badges.html">Components</a></li>
+	        	<li><a href="collapsible.html">JavaScript</a></li>
+	      	</ul>
+
+	    </div>
+	</nav>	
+
+</div>
+
+<!-- NAVBAR VISTA EN CELULARES -->
+	<ul class="sidenav" id="mobile-demo">
+   		<li><a href="sass.html">Sass</a></li>
+    	<li><a href="badges.html">Components</a></li>
+    	<li><a href="collapsible.html">Javascript</a></li>
+    	<li><a href="mobile.html">Mobile</a></li>
+  	</ul>
+<!-- FIN NAVBAR -->
+
+<!-- EFECTO PARALLAX  -->
+<div class="parallax-container">
+      <div class="parallax"><img src="images/solucionesweb.png"></div>
+</div>
+<!-- FIN EFECTO PARALLAX  -->
+<br>
+
+
+
+<!-- TARJETA DE PRESENTACION PRINCIPAL CON MI FOTO -->
+<div class="row container" >
+	<div class="col s12"> <!-- s12 PARA Q SIEMPRE ESTEN ACTIVAS LAS 12 COLUMNAS -->
+	    <h2 class="header">Juan Carlos Pua Aguirre</h2>
+	    <div class="card horizontal hoverable">
+	    	<div class="card-image">
+	        	<img src="images/juancarlospua.png">
+	    	</div>
+	      	<div class="card-stacked">
+	        	<div class="card-content">
+	          		<p>Soy analista de programacion, desarrollador de paginas web
+	          		estudios en la ciudad de santa martha, gran experienza en lenguaje 
+	  		  		python + django + bustrapp + materialiacecss + html + javascrip...</p>
+	        	</div>
+	      	</div>
+	    </div>
+	</div>
+</div>
+<!-- FIN TARJETA DE PRESENTACION PRINCIPAL  -->	
+
+<!-- SERVICIOS TARJETA DE PRESENTACION SECUNDARIA GRUPO DE 6 X 2 COLUMNAS  -->	
+<div class="block blue lighten-2"> 
+	<br>
+	<h4 class="white-text center">Mis Servicios</h4>
+	<div class="row container"> <!-- habilito una fila centrada para las tarjetas -->
+		
+		<div class="col s12 m6 l4"> <!-- cada grafica en cel usa s12 col (1 graf), dispositivos medianos m6 col (2 graf), disp long l4 col (3 graf) -->
+
+			<div class="card hoverable">
+    			<div class="card-image waves-effect waves-block waves-light">
+      				<img class="activator" src="{% static 'images/python.png' %}" width="260" height="145">
+    		</div>
+    		<div class="card-content">
+      			<span class="card-title activator grey-text text-darken-4">Python<i class="material-icons right"	>more_vert</i></span>
+      			<p><a href="#">This is a link</a></p>
+    		</div>
+    		<div class="card-reveal">
+      			<span class="card-title grey-text text-darken-4">Python<i class="material-icons right">close</i></span>
+      			<p>Here is some more information about this product that is only revealed once clicked on.</p>
+    		</div>
+			</div>
+		</div> 
+
+		<div class="col s12 m6 l4"> 
+
+			<div class="card hoverable">
+    			<div class="card-image waves-effect waves-block waves-light">
+      				<img class="activator" src="{% static 'images/html.jpg' %}" width="260" height="145">
+    		</div>
+    		<div class="card-content">
+      			<span class="card-title activator grey-text text-darken-4">HTML<i class="material-icons right"	>more_vert</i></span>
+      			<p><a href="#">This is a link</a></p>
+    		</div>
+    		<div class="card-reveal">
+      			<span class="card-title grey-text text-darken-4">HTML<i class="material-icons right">close</i></span>
+      			<p>Here is some more information about this product that is only revealed once clicked on.</p>
+    		</div>
+			</div>
+		</div> 
+
+		<div class="col s12 m6 l4"> <!-- cada grafica en cel usa s12 col, dispositivos medianos m4 col -->
+
+			<div class="card hoverable">
+    			<div class="card-image waves-effect waves-block waves-light">
+      				<img class="activator" src="{% static 'images/materialicecss.jpg' %}" width="260" height="145">
+    		</div>
+    		<div class="card-content">
+      			<span class="card-title activator grey-text text-darken-4">MATERIALIZECSS<i class="material-icons right"	>more_vert</i></span>
+      			<p><a href="#">This is a link</a></p>
+    		</div>
+    		<div class="card-reveal">
+      			<span class="card-title grey-text text-darken-4">MATERIALICECSS<i class="material-icons right">close</i></span>
+      			<p>Here is some more information about this product that is only revealed once clicked on.</p>
+    		</div>
+			</div>
+		</div>
+
+	</div>
+	<!-- SEGUNDA FILA DE TARJETAS -->
+	<div class="row container"> <!-- habilito una fila centrada para las tarjetas -->
+		
+		<div class="col s12 m6 l4"> <!-- cada grafica en cel usa s12 col, dispositivos medianos m4 col -->
+
+			<div class="card hoverable">
+    			<div class="card-image waves-effect waves-block waves-light">
+      				<img class="activator" src="{% static 'images/bootstrap.png' %} " width="260" height="145">
+    		</div>
+    		<div class="card-content">
+      			<span class="card-title activator grey-text text-darken-4">BOOTSTRAP<i class="material-icons right"	>more_vert</i></span>
+      			<p><a href="#">This is a link</a></p>
+    		</div>
+    		<div class="card-reveal">
+      			<span class="card-title grey-text text-darken-4">BOOTSTRAP<i class="material-icons right">close</i></span>
+      			<p>Here is some more information about this product that is only revealed once clicked on.</p>
+    		</div>
+			</div>
+		</div> 
+
+		<div class="col s12 m6 l4"> <!-- cada grafica en cel usa s12 col, dispositivos medianos m4 col -->
+
+			<div class="card hoverable">
+    			<div class="card-image waves-effect waves-block waves-light">
+      				<img class="activator" src="{% static 'images/django.png' %}" width="260" height="145">
+    		</div>
+    		<div class="card-content">
+      			<span class="card-title activator grey-text text-darken-4">DJANGO<i class="material-icons right"	>more_vert</i></span>
+      			<p><a href="#">This is a link</a></p>
+    		</div>
+    		<div class="card-reveal">
+      			<span class="card-title grey-text text-darken-4">DJANGO<i class="material-icons right">close</i></span>
+      			<p>Here is some more information about this product that is only revealed once clicked on.</p>
+    		</div>
+			</div>
+		</div> 
+
+		<div class="col s12 m6 l4"> <!-- cada grafica en cel usa s12 col, dispositivos medianos m4 col -->
+
+			<div class="card hoverable">
+    			<div class="card-image waves-effect waves-block waves-light">
+      				<img class="activator" src="{% static 'images/java.png' %}" width="260" height="145">
+    		</div>
+    		<div class="card-content">
+      			<span class="card-title activator grey-text text-darken-4">JAVA<i class="material-icons right"	>more_vert</i></span>
+      			<p><a href="#">This is a link</a></p>
+    		</div>
+    		<div class="card-reveal">
+      			<span class="card-title grey-text text-darken-4">JAVA<i class="material-icons right">close</i></span>
+      			<p>Here is some more information about this product that is only revealed once clicked on.</p>
+    		</div>
+			</div>
+		</div>
+
+	</div>
+<br>  	
+</div>  
+
+<!-- HABILIDADES TARJETA DE PRESENTACION -->
+<br>
+	<h4 class="black-text center">Mis Habilidades</h4>
+
+<div class="row container">
+	<div class="col s12 m6">
+		<h5>Mi Experiencia</h5>
+		<div class="card blue lighten-5">
+	        <div class="card-content black-text">
+		    	<span class="card-title">Card Title</span>
+		        <p>I am a very simple card. I am good at containing small bits of information.
+		        I am convenient because I require little markup to use effectively.</p>
+		    </div>
+        	<div class="card-action">
+          		<a href="#">This is a link</a>
+          		<a href="#">This is a link</a>
+        	</div>
+    	</div>
+	</div>	
+
+	<div class="col s12 m6">
+		<h5>Mi Educación</h5>
+		<div class="card blue lighten-5">
+	        <div class="card-content black-text">
+		    	<span class="card-title">Card Title</span>
+		        <p>I am a very simple card. I am good at containing small bits of information.
+		        I am convenient because I require little markup to use effectively.</p>
+		    </div>
+        	<div class="card-action">
+          		<a href="#">This is a link</a>
+          		<a href="#">This is a link</a>
+        	</div>
+    	</div>
+	</div>	
+</div>
+
+<div class="row container">
+	<div class="col s12 m6">
+		<h5></h5>
+		<div class="card blue lighten-5">
+	        <div class="card-content black-text">
+		    	<span class="card-title">Card Title</span>
+		        <p>I am a very simple card. I am good at containing small bits of information.
+		        I am convenient because I require little markup to use effectively.</p>
+		    </div>
+        	<div class="card-action">
+          		<a href="#">This is a link</a>
+          		<a href="#">This is a link</a>
+        	</div>
+    	</div>
+	</div>	
+
+	<div class="col s12 m6">
+		<h5></h5>
+		<div class="card blue lighten-5">
+	        <div class="card-content black-text">
+		    	<span class="card-title">Card Title</span>
+		        <p>I am a very simple card. I am good at containing small bits of information.
+		        I am convenient because I require little markup to use effectively.</p>
+		    </div>
+        	<div class="card-action">
+          		<a href="#">This is a link</a>
+          		<a href="#">This is a link</a>
+        	</div>
+    	</div>
+	</div>	
+</div>
+
+<!-- HABILIDADES 2 TARJETA CON BARRA DE PROGRESO -->
+<div class="row container">
+	<div class="col s12 m6">
+		<h6>Mis habilidades con idiomas</h6>
+		<div class="card-panel hoverable">
+			<span>Español</span>
+			<div class="progress">
+				<div class="determinate" style="width: 90%"></div>
+			</div>
+			<span>Ingles</span>
+			<div class="progress">
+				<div class="determinate" style="width: 70%"></div>
+			</div>
+		</div>
+	</div>	
+
+	<div class="col s12 m6">
+		<h6>Mis habilidades en programación</h6>
+		<div class="card-panel hoverable">
+			<span>Python</span>
+			<div class="progress">
+				<div class="determinate" style="width: 90%"></div>
+			</div>
+			<span>Djando</span>
+			<div class="progress">
+				<div class="determinate" style="width: 90%"></div>
+			</div>
+		</div>
+	</div>
+	<br>
+</div>	
+
+<!-- MISTRABAJOS EN UN CARROUSEL -->
+<div class="block blue darken-4" id = 'trabajo'>
+	<br><br>
+	<p class="center titulos light">PORTAFOLIO</p>
+	<a href="/trabajos">
+		<h4 class="center titulos">Mis Trabajos</h4>
+	</a>	
+	<div class="carousel">
+
+		{% for proyecto in proyectos %}	
+			<a class="carousel-item" href="trabajos/{{proyecto.slug}}"><img src="{{proyecto.imagen.url}}"></a>
+		{% endfor %}
+  		
+    	
+  	</div>
+</div>
+
+
+<!-- CONTACTO -->
+<br>
+<h5 class="balck-text center">Contáctame</h5>
+<div class="row container center">
+	<div class="col s12 m6 l4">
+		<div class="card grey lighten-3 hoverable">
+        	<div class="card-content black-text">
+          		<span class="card-title">Ubicación</span>
+          		<a href="#"><p>Colombia, Barranquilla</p></a>
+          		<a href="#">Localidad</a>
+        	</div>
+      	</div>
+	</div>
+
+	<div class="col s12 m6 l4">
+		<div class="card grey lighten-3 hoverable">
+        	<div class="card-content black-text">
+          		<span class="card-title">Movil</span>
+          		<a href="#"><p>300 455 8899</p></a>
+          		<a href="#">320 889 8877</a>
+        	</div>
+      	</div>
+	</div>
+
+	<div class="col s12 m6 l4">
+		<div class="card grey lighten-3 hoverable">
+        	<div class="card-content black-text">
+          		<span class="card-title">Email</span>
+          		<a href="#"><p>juancarlospua@hotmail.com</p></a>
+          		<a href="#">juancarlospua@gmail.com</a>
+        	</div>
+      	</div>
+	</div>
+</div>
+<br>
+
+
+<!-- FOOTERS -->
+<footer class="page-footer blue darken-4">
+	<div class="footer-copyright">
+    	<div class="container">
+            © 2014 Copyright Text
+            <a class="grey-text text-lighten-4 right" href="#!">More Links</a>
+        </div>
+    </div>
+</footer>
+
+
+
+<!-- Compiled and minified JavaScript -->          <!-- MATERIALICECSS -->
+<script src="{% static '/js/init.js' %}"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+
+<!-- SCRIPT PARA Q EL NAVBAR CAMBIO EN CELULARES A MENU DE HAMBURGUESA -->
+<script type="text/javascript"> 
+	document.addEventListener('DOMContentLoaded', function() {
+    var elems = document.querySelectorAll('.sidenav');
+    var instances = M.Sidenav.init(elems);
+
+    var elemsparallax = document.querySelectorAll('.parallax');
+    var instances = M.Parallax.init(elemsparallax);
+
+    var elemsCar = document.querySelectorAll('.carousel');
+    var instances = M.Carousel.init(elemsCar);
+  });	
+
+</script>
+
+</body>
+</html>
